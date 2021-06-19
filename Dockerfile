@@ -4,7 +4,7 @@
 
 # http://docs.docker.io/en/latest/use/builder/
 
-FROM ubuntu
+FROM ubuntu:groovy-20210614
 MAINTAINER Dave Beckett <dave@dajobe.org>
 
 # make sure the package repository is up to date
